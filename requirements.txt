@@ -1,0 +1,3 @@
+numpy>=1.19.0
+autopy>=4.0.0
+opencv-python>=4.2.0
